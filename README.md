@@ -4,7 +4,7 @@ I'm a *Frontend Developer* and *UI Designer*, passionate about creating useful, 
 
 
 
-You can check out some of these projects on my GitHub or [on my website](https://www.samscott.dev)
+You can check out some of these projects on my GitHub or [on my website.](https://www.samscott.dev)
 
 ### Languages and Tools 
 
@@ -12,4 +12,4 @@ You can check out some of these projects on my GitHub or [on my website](https:/
 
 ### Get in Touch
 
-For questions or work? It's best to reach me [by email](mailto:samoscarscott@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samscott3000/)
+For questions or work? It's best to reach me [by email](mailto:samoscarscott@gmail.com) or [LinkedIn.](https://www.linkedin.com/in/samscott3000/)
